@@ -23,7 +23,7 @@ A Python implementation of Kruskal's algorithm for finding the Minimum Spanning 
 ## How to Use
 
 1. Clone the repository or download the Python file
-2. Run the script: `python kruskal_mst.py`
+2. Run the script: `python alg_project2.py`
 3. Enter edges in the format: `vertex1 vertex2 weight`
 4. Type `done` when finished entering edges
 5. View the MST edges and total weight in the console
